@@ -1,0 +1,25 @@
+Report Structure:
+1. Introduction
+What application you tested
+2. Tools Used
+OWASP ZAP
+Nikto
+Lynis
+Burp Suite
+Docker scan
+3. Vulnerabilities Found
+
+Example:
+
+SQL Injection in login
+Missing security headers
+Weak authentication
+4. Fixes Applied
+Input validation added
+Helmet middleware used
+Rate limiting enabled
+Dependencies updated
+5. Compliance Mapping
+Mapped to OWASP Top 10
+6. Final Result
+“Application is now secure for deployment”
